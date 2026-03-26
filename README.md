@@ -1,4 +1,4 @@
-<div align="center"><img width="1916" height="926" alt="Desktop Demo" src="https://github.com/user-attachments/assets/9923e6e3-7be8-44e2-8dc1-ed507d41d996" />
+<div align="center">
 
   <br />
   <br />
