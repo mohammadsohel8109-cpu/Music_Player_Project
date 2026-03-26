@@ -7,7 +7,7 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href="file:///D:/INTERN%20TASK%201/Index.html"><strong>➥ Live Demo</strong></a>
+  <a href="http://127.0.0.1:5501/Index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
